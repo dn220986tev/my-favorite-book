@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      /*  h1 {
+            font-size: 40px;
+        }
+        #name{padding: 5px;
+        }
+        .header{
+            color: aqua;
+        }*/
+    </style>
+    <link rel="stylesheet" href="./style_HA.css">
+    <title>Li-Öle</title>
+</head>
+
+
+<body>
+    <h1 class="header" style="text-align: center;">Anmeldung</h1>
+    <form action="/register ">
+        <label for="name">Name</label>
+        <input
+         id="name"
+         type="text"
+         placeholder="Ihre Nahme.."
+         required>
+<br>
+<br>
+
+<label for="nachname">Nachname</label>
+        <input
+         id="nachname"
+         type="text"
+         placeholder="Ihre Nachname.."
+         required>
+
+         <br>
+         <br>
+         
+         
+         <div>
+        <label for="email">E-Mail</label>
+        <input
+         id="email"
+         type="email"
+         placeholder="Ihre E-Mail.."
+         required>
+        </div>
+        <br>
+
+        <div>
+            <label for="adresse">Adresse</label>
+            <input
+             id="adresse"
+             type="adresse"
+             placeholder="Ihre Adresse.."
+             required>
+            </div>
+            <br>
+
+         <!--minlength="8"-->
+         <div>
+         <label for="Password">Passwort</label>
+         <input
+         id="password"
+         type="password"
+         placeholder="Ihr Passwort.."
+         title="trebovanija k paroly: zaglavnaja bukva, odna zufra i minimum 8 simvolov"
+         pattern="[0-9]"
+         required>
+        </div>
+        <br>
+         <div>
+         <label for="phone">Telefon</label>
+         <input
+         id="phone"
+         type="phone"
+         placeholder="Ihr Telefon.."
+         title="Example: +123-456-7890"
+         pattern="\+?[0-9]{3}-?[0-9]{3}-?[0-9]{4}"
+         required>
+        </div>
+        <br>
+
+        <div> <label for="geshlecht">Geshlecht</label>
+         <select id="geshlecht" required>
+            <option value="">Wählen Ihr Geschlecht aus...</option>
+            <option value="">Manlich</option>
+            <option value="">Weiblich</option>
+            <option value="">Divers</option>
+           
+         </select>
+        </div>
+        <br>
+        
+      <div>  <label for="einwilligung">Einwilligung zum Erhalt von Newslettern</label>
+         <input 
+         id ="einwilligung"
+         type="radio"
+         required>
+    </div>
+    <br>
+
+
+         
+    <br> 
+    <hr>
+    <br>  
+    <div>
+        <button type="reset">Absagen</button>
+        <button type="submit">Senden</button>
+    </div>
+    </form> 
+</body>
+</html>

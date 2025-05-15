@@ -1,0 +1,60 @@
+body{
+    height: 3000px;
+    .card{
+        height: 300px;
+        width: 200px;
+        border-radius: 18px;
+        padding: 10px;
+        margin: 0px;
+    }
+
+
+    
+    }
+    header{
+        height: 100px;
+        width: 100px;
+       
+    }
+
+    .navigation{
+        padding: 24px;
+        background-color: burlywood;
+        position: fixed;
+        top: 0px;
+        z-index: 6;
+    }
+
+
+    .red{
+        background-color: lightcoral;
+    }
+    .green{
+        background-color: lightgreen;
+    }
+  .yellow{
+    background-color: yellow;
+ }
+
+.relative-block{
+    position: relative;
+    left: 40px;
+    top: 50px;
+
+}
+.circle{
+    border-radius: 50px;
+    background-color: lightsalmon;
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    
+    z-index: 2;
+    right: 20px;
+    bottom: 20px;
+
+}
+.sticky-card{
+    position: sticky;
+    top: 50px;
+}

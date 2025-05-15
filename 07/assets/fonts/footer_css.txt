@@ -1,0 +1,29 @@
+
+.container-1{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    background-color: #1b342d;
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+ul{
+    padding-left: 0;
+    padding-top: 0;
+    list-style-type: none;  
+}
+a{
+    text-decoration: none;
+    color: white;
+   
+}
+a:hover{
+    color: #fff7b6 ;
+}
+.center-text{
+    display: flex;
+    justify-content: center;
+}

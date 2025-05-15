@@ -1,0 +1,93 @@
+
+<footer>
+
+<div class="container-1">
+
+
+<div>
+        <h2><img src="//growmytree.com/cdn/shop/files/GMT-Logo2023-white_500x500.png?v=1675352266" width="200" alt="" class="footer-logo smallScreen--hide"></h2>
+        <ul>
+            <li>ImpactHero GmbH</li>
+            <li>Kottbusser Damm 103A</li>
+            <li> 10967 Berlin</li>
+            <li>Germany</li>
+            <li><a href="https://www.impacthero.com/">Impact Hero</a> bietet dir weitere Impact - Lösungen für dein Unternehmen</li>
+            <li>+49 30 1663 570 08</li>
+            <li>info@growmytree.com</li>
+            <li>Melde dich für den Newsletter an</li>
+            <li>Gib deine E-Mail-Adresse ein</li>
+            <button>Anmelden</button>
+        </ul>
+</div>
+
+<div>
+    <h2>Bäume</h2>
+    <ul>
+        <li><a href="https://growmytree.com/collections/baeume-pflanzen">Baum-Pakete</a></li>
+        <li><a href="https://growmytree.com/en/pages/baume-schenken">Bäume schenken</a></li>
+        <li><a href="https://growmytree.com/pages/transparenz">Transparenz</a></li>
+    </ul>
+</div>
+
+<div><h2>Schnelllinks</h2>
+<ul>
+    <li><a href="https://business.growmytree.com/">Für Unternehmen</a></li>
+    <li><a href="https://growmytree.com/pages/uber-uns">Über uns</a>Über uns</li>
+    <li><a href="https://growmytree.com/en/blogs/news">Blog</a></li>
+    <li><a href="https://growmytree.com/pages/impressum">Impressum</a></li>
+    <li><a href="https://growmytree.com/policies/terms-of-service">Allgemeine Geschäftsbedingungen</a></li>
+    <li><a href="https://growmytree.com/pages/transparenz">Widerrufsrecht</a></li>
+</ul>
+</div>
+
+<div>
+
+    <a href="https://www.instagram.com/impacthero.official/#"> 
+        <img src="./assets/img/instagram.png"width="30"></a>
+    <a href="https://www.facebook.com/impacthero.official"> 
+            <img src="./assets/img/facebook.png"width="30"></a>
+    <a href="https://www.tiktok.com/@growmytree"> 
+                <img src="./assets/img/tik-tok.jpg"width="30"></a>
+    <a href="https://www.linkedin.com/company/impacthero"> 
+                    <img src="./assets/img/in.jpg"width="30"></a>
+                
+</div>
+
+
+<div><h2>Brauchst du Hilfe?</h2>
+    <ul>
+        <li><a href="https://growmytree.com/pages/faq">FAQ</a></li>
+        <li><a href="https://growmytree.com/pages/kontakt">Kontaktiere uns</a></li>
+        <li><a href="https://growmytree.com/policies/privacy-policy">Datenschutz</a></li>
+    </ul>
+</div>
+
+
+
+<div>
+<img src="./assets/img/am.png" width="30" height="30">
+<img src="./assets/img/paypal.png" width="30" height="30">
+<img src="./assets/img/applepay.jpg" width="30" height="30">
+<img src="./assets/img/maestro.png" width="30" height="30">
+<img src="./assets/img/mastercard.png" width="30" height="30">
+<img src="./assets/img/shop.png" width="30" height="30">
+<img src="./assets/img/visa.png" width="30" height="30">
+<img src="./assets/img/googlpay.png" width="30" height="30">
+<img src="./assets/img/sofort.png" width="30" height="30">
+<img src="./assets/img/klarna.png" width="30" height="30">
+</div>
+</div>
+
+    <p class="center-text">2025 ImpactHero GmbH </p>
+  
+    
+
+
+</div> 
+
+
+</footer>
+   
+    
+</body>
+</html>

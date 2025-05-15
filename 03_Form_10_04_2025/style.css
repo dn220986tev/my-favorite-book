@@ -1,0 +1,53 @@
+body{
+    background-color: burlywood;
+}
+
+form{
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.5;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+
+}
+div{
+    margin: 15px 0;
+}
+
+#name,
+#email,
+#password,
+#phone{
+    width: 100;
+    padding: 5px 0px 5px;
+    border-radius: 5px;
+    border: #ccc;
+
+}
+.btn {
+    width: fit-content;
+    margin: 20px auto 30px; /* начиная сверху , по горизонтали , снизу */
+  }
+  
+  button {
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+  
+ button[type="reset"] {
+      background-color: brown;
+}
+  
+  button[type="reset"]:hover {
+      background-color:  #cfc728;
+  }
+  
+  button[type="submit"] {
+      background-color: #4b774d
+  }
